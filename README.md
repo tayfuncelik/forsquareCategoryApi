@@ -1,5 +1,6 @@
 # forsquareCategoryApi
 
+This app will work http://localhost:8080
 
 Here's what it looks like:
 
